@@ -1,0 +1,15 @@
+{
+  "name": "notification-emitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "events-proxy": "git+https://github.com/kodexxx/cf-events-proxy.git#4dea7b19ea634a0f82acf37549dbaf642918a040",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.20"
+  }
+}
